@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+#rider
+/.idea/*
+/x64/*
+
+#visual studios files
+*.vcxproj
+*.vcxproj.filters
