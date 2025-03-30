@@ -33,7 +33,9 @@
 
 #rider
 /.idea/*
+/LogMeCPP/*
 /x64/*
+/.vs/*
 
 #visual studios files
 *.vcxproj

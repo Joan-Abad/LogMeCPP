@@ -10,12 +10,6 @@ struct LOGGING_API ConsoleTextColor
     {
         this->AnsiCode = AnsiCode;
     }
-    
-    //static ConsoleTextColor RED;
-    //static ConsoleTextColor GREEN; 
-    //static ConsoleTextColor YELLOW; 
-    //static ConsoleTextColor BLUE;
-    //static ConsoleTextColor DEFAULT;
 
     static ConsoleTextColor GetRedColor();
     static ConsoleTextColor GetGreenColor();
